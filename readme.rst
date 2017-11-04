@@ -16,3 +16,4 @@ https://fortress.wa.gov/es/apps/ContractSearch/DiverseContracts.aspx
 
 Then we're going to take this, pull each of the pages, and turn them into a CSV including the costs and diversity status of each contract.
 
+Note: THAT WAS THE PLAN but it got rate-limited so we just scraped Pokemon instead. Sorry!
